@@ -16,9 +16,11 @@
 ## 截图预览
 
 1、登陆页面
+
 ![登录界面](https://github.com/handexing/mango_writing/raw/master/view/login.png)
 
 2、主界面
+
 ![主界面](https://github.com/handexing/mango_writing/raw/master/view/index.png)
 
 ## 功能说明
